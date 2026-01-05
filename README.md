@@ -1,6 +1,6 @@
 # Demo
 
-Dome description!
+Some description!
 
 ## Subheader
 
